@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computing and Artificial Intelligence at Southwest Jiaotong University, supervised by Prof. Bo Peng. My research interest generally includes Machine Learning, Computer Vision, and Medical Image Processing. And my recent works mainly focus on foundation model in medical domain.
+I am a PhD student at the School of Computing and Artificial Intelligence, Southwest Jiaotong University, supervised by Prof. Bo Peng. My research interest generally includes Machine Learning, Computer Vision, and Medical Image Processing. And my recent works mainly focus on foundation model in medical domain.
 
 I received my Master degree from the School of Computer Science, Chengdu University of Information Technology in 2023, advised by Prof. Xi Wu and Prof. Xiaomeng Huang. My bachelor's degree in Computer Science was also obtained from Chengdu University of Information Technology in 2020.
 
