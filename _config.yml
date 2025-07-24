@@ -32,15 +32,15 @@ author:
   email            : "huangpeng@my.swjtu.edu.cn" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  # academia         : # URL
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ZNGt1wsAAAAJ&hl=zh-CN&oi=sra"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-7370-3631"
-  semantic         : # URL
+  # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # researchgate     : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   # bitbucket        : # Username - Update with your username on the site
