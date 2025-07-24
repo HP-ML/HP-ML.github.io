@@ -17,15 +17,21 @@ It's coming soon
 Selected Papers
 ======
 •	Huang P, Hu S, Peng B, et al. Diffusion-empowered AutoPrompt MedSAM[J]. arXiv preprint arXiv:2502.06817, 2025.
+
 •	Huang P, Hu S, Peng B, et al. Robustly optimized deep feature decoupling network for fatty liver diseases detection[C]. International Conference on Medical Image Computing and Computer-Assisted Intervention(MICCAI).
+
 •	Huang P, Chen Q, Wang D, et al. (2022), TripleConvTransformer: A deep learning vessel trajectory prediction method fusing discretized meteorological data[J]. Frontiers in Environmental Science.
 
 Honors and Awards
 ======
 •	First-Class Academic Scholarship for PhD's Students(2024)
+
 •	Silver Prize, ‘Internet Plus’ Competition(2022)
+
 •	Bronze Prize, ‘Challenge Cup’(2022)
+
 •	Second-Class Academic Scholarship for Master's Students(2022)
+
 •	First-Class Academic Scholarship for Master's Students(2020)
 
 
