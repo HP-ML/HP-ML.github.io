@@ -1,4 +1,3 @@
-<img width="432" height="26" alt="image" src="https://github.com/user-attachments/assets/3e15f5c3-4810-4be0-a996-fd861488ac9b" /><img width="432" height="26" alt="image" src="https://github.com/user-attachments/assets/9cb7f380-2a50-4952-bfe6-2026178738ed" />---
 permalink: / About Me
 author_profile: true
 redirect_from: 
