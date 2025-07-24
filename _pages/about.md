@@ -27,15 +27,15 @@ Selected Papers
 
 Honors and Awards
 ======
-•	First-Class Academic Scholarship for PhD's Students(2024)
+•	The First Prize Scholarship for PhD's Students(2024)
 
 •	Silver Prize, "Internet Plus" Competition(2022)
 
 •	Bronze Prize, "Challenge Cup"(2022)
 
-•	Second-Class Academic Scholarship for Master's Students(2022)
+•	The Second Prize Scholarship for Master's Students(2022)
 
-•	First-Class Academic Scholarship for Master's Students(2020)
+•	The First Prize Scholarship for Master's Students(2020)
 
 
 
